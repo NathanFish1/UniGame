@@ -542,7 +542,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 2.1118
+        "zoomFactor": 1.6922
       },
       "objectsGroups": [],
       "variables": [
@@ -566,7 +566,16 @@
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "Attack",
+              "value": "0"
+            },
+            {
+              "name": "MaxSpeed",
+              "value": "175"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -743,6 +752,22 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GUI",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "82fb16e6-c8ef-4d43-aee2-06f669f61011",
+          "width": 0,
+          "x": 268,
+          "y": 64,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -754,21 +779,21 @@
           "variables": [],
           "behaviors": [
             {
+              "acceleration": 1200,
               "canGrabPlatforms": false,
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "gravity": 2000,
-              "maxFallingSpeed": 800,
-              "xGrabTolerance": 0,
-              "acceleration": 1500,
-              "deceleration": 1500,
+              "deceleration": 1200,
+              "gravity": 1000,
               "ignoreDefaultControls": true,
-              "jumpSpeed": 800,
-              "jumpSustainTime": 0.2,
+              "jumpSpeed": 500,
+              "jumpSustainTime": 0,
               "ladderClimbingSpeed": 150,
-              "maxSpeed": 250,
+              "maxFallingSpeed": 300,
+              "maxSpeed": 175,
+              "name": "PlatformerObject",
               "roundCoordinates": true,
               "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "xGrabTolerance": 10,
               "yGrabOffset": 0
             }
           ],
@@ -779,7 +804,7 @@
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
@@ -1043,7 +1068,7 @@
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
@@ -2213,10 +2238,10 @@
               "yGrabOffset": 0
             },
             {
+              "allowDiagonals": false,
               "name": "TopDownMovement",
               "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "acceleration": 800,
-              "allowDiagonals": true,
               "ignoreDefaultControls": true,
               "maxSpeed": 250,
               "angleOffset": 0,
@@ -2753,18 +2778,6 @@
             {
               "type": {
                 "inverted": false,
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Player",
-                "=",
-                "0"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "MettreX"
               },
               "parameters": [
@@ -2807,6 +2820,18 @@
                 "Xcoord",
                 "=",
                 "Cam.X()"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "NewObject",
+                "=",
+                "Player.VariableString(MaxSpeed)"
               ],
               "subInstructions": []
             }
@@ -3020,6 +3045,16 @@
                 "1.5"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "PlayerBase"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -3121,18 +3156,6 @@
                 "TopDownMovement"
               ],
               "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Player",
-                "=",
-                "1"
-              ],
-              "subInstructions": []
             }
           ],
           "events": []
@@ -3219,18 +3242,6 @@
                 "TopDownMovement"
               ],
               "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Player",
-                "=",
-                "1"
-              ],
-              "subInstructions": []
             }
           ],
           "events": []
@@ -3304,18 +3315,6 @@
               "parameters": [
                 "PlayerBase",
                 "TopDownMovement"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Player",
-                "=",
-                "1"
               ],
               "subInstructions": []
             }
@@ -3393,18 +3392,6 @@
                 "TopDownMovement"
               ],
               "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Player",
-                "=",
-                "1"
-              ],
-              "subInstructions": []
             }
           ],
           "events": []
@@ -3417,11 +3404,13 @@
             {
               "type": {
                 "inverted": false,
-                "value": "PlatformBehavior::IsOnFloor"
+                "value": "VarObjet"
               },
               "parameters": [
                 "Player",
-                "PlatformerObject"
+                "Attack",
+                "=",
+                "0"
               ],
               "subInstructions": []
             }
@@ -3436,11 +3425,11 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "KeyPressed"
+                    "value": "PlatformBehavior::IsOnFloor"
                   },
                   "parameters": [
-                    "",
-                    "Space"
+                    "Player",
+                    "PlatformerObject"
                   ],
                   "subInstructions": []
                 }
@@ -3449,28 +3438,236 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "PlatformBehavior::SimulateJumpKey"
+                    "value": "PlatformBehavior::Gravity"
                   },
                   "parameters": [
                     "Player",
-                    "PlatformerObject"
+                    "PlatformerObject",
+                    "=",
+                    "1000"
                   ],
                   "subInstructions": []
                 },
                 {
                   "type": {
                     "inverted": false,
-                    "value": "ChangeAnimation"
+                    "value": "ModVarObjet"
                   },
                   "parameters": [
                     "Player",
+                    "MaxSpeed",
                     "=",
-                    "2"
+                    "175"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::MaxSpeed"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject",
+                    "=",
+                    "Player.Variable(MaxSpeed)"
                   ],
                   "subInstructions": []
                 }
               ],
-              "events": []
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Space"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "TopDownMovementBehavior::IsMoving"
+                          },
+                          "parameters": [
+                            "PlayerBase",
+                            "TopDownMovement"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ChangeAnimation"
+                          },
+                          "parameters": [
+                            "Player",
+                            "=",
+                            "1"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
+                    },
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "TopDownMovementBehavior::IsMoving"
+                          },
+                          "parameters": [
+                            "PlayerBase",
+                            "TopDownMovement"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ChangeAnimation"
+                          },
+                          "parameters": [
+                            "Player",
+                            "=",
+                            "0"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
+                    }
+                  ]
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Space"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlatformBehavior::SimulateJumpKey"
+                      },
+                      "parameters": [
+                        "Player",
+                        "PlatformerObject"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlatformBehavior::MaxSpeed"
+                      },
+                      "parameters": [
+                        "Player",
+                        "PlatformerObject",
+                        "=",
+                        "20"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "Player",
+                        "=",
+                        "2"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlatformBehavior::Gravity"
+                      },
+                      "parameters": [
+                        "Player",
+                        "PlatformerObject",
+                        "=",
+                        "600"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": [
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "PlatformBehavior::IsFalling"
+                          },
+                          "parameters": [
+                            "Player",
+                            "PlatformerObject"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ChangeAnimation"
+                          },
+                          "parameters": [
+                            "Player",
+                            "=",
+                            "3"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
