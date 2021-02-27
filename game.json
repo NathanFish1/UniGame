@@ -213,6 +213,24 @@
         "name": "NewObject2-1-2.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Enemy1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Enemy1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Enemy1-1 - Copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Enemy1-1 - Copy.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -245,9 +263,21 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.7318
+        "zoomFactor": 1.271
       },
-      "objectsGroups": [],
+      "objectsGroups": [
+        {
+          "name": "Enemies",
+          "objects": [
+            {
+              "name": "Enemy1"
+            },
+            {
+              "name": "Enemy2"
+            }
+          ]
+        }
+      ],
       "variables": [
         {
           "name": "Xcoord",
@@ -1054,6 +1084,104 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Enemy1",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Health",
+              "type": "Health::Health",
+              "Health": 100,
+              "DamageCooldown": 0,
+              "MaxHealth": 100,
+              "IsJustDamaged": false,
+              "CooldownActive": false
+            }
+          ],
+          "animations": [
+            {
+              "name": "Enemy1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Enemy1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enemy2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Health",
+              "type": "Health::Health",
+              "Health": 50,
+              "DamageCooldown": 0,
+              "MaxHealth": 100,
+              "IsJustDamaged": false,
+              "CooldownActive": false
+            }
+          ],
+          "animations": [
+            {
+              "name": "Enemy1-1-Copy",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Enemy1-1 - Copy.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -1736,6 +1864,10 @@
         }
       ],
       "behaviorsSharedData": [
+        {
+          "name": "Health",
+          "type": "Health::Health"
+        },
         {
           "name": "PathfindingObstacle",
           "type": "PathfindingBehavior::PathfindingObstacleBehavior"
