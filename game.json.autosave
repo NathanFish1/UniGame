@@ -504,15 +504,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "HealthBarBase-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "HealthBarBase-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "NewObject3-1.png",
         "kind": "image",
         "metadata": "",
@@ -1815,6 +1806,510 @@
         "name": "Goblin-8.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Goblin-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Goblin-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Goblin-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Goblin-2-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Goblin-3-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Goblin-3-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Goblin-4-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Goblin-4-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Goblin-5-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Goblin-5-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Goblin-6-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Goblin-6-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Goblin-7-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Goblin-7-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Goblin-8-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Goblin-8-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "EnemyAttack2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "EnemyAttack2-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "EnemyAttack2-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "EnemyAttack2-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "EnemyAttack2-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "EnemyAttack2-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "EnemyAttack2-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "EnemyAttack2-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "EnemyAttack2-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "EnemyAttack2-5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "EnemyAttack2-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "EnemyAttack2-6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "EnemyAttack2-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "EnemyAttack2-7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "EnemyAttack2-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "EnemyAttack2-8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject3-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject3-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Warrior_Death_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Warrior_Death_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Warrior_Death_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Warrior_Death_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Warrior_Death_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Warrior_Death_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Warrior_Death_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Warrior_Death_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Warrior_Death_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Warrior_Death_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Warrior_Death_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Warrior_Death_6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Warrior_Death_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Warrior_Death_7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Warrior_Death_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Warrior_Death_8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Warrior_Death_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Warrior_Death_9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Warrior_Death_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Warrior_Death_10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Warrior_Death_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Warrior_Death_11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Health-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Health-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "HealthBarBase-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "HealthBarBase-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "HealthBarBase-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "HealthBarBase-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Warrior_hurt_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Warrior_hurt_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Warrior_hurt_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Warrior_hurt_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Warrior_hurt_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Warrior_hurt_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Warrior_hurt_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Warrior_hurt_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Hurt-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Hurt-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Hurt-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Hurt-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Hurt-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Hurt-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Hurt-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Hurt-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Death-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Death-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Death-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Death-2-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Death-3-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Death-3-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Death-4-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Death-4-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Death-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Death-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Death-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Death-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Death-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Death-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Death-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Death-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Death-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Death-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Death-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Death-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Death-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Death-11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject3-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject3-1-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject3-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject3-1-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject2-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject2-1-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject2-1-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject2-1-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-0-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-0-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject3-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject3-1-4.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1847,7 +2342,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 1.2016
+        "zoomFactor": 0.586
       },
       "objectsGroups": [
         {
@@ -1857,31 +2352,49 @@
               "name": "Goblin"
             }
           ]
+        },
+        {
+          "name": "Spawn",
+          "objects": [
+            {
+              "name": "Spawn1"
+            },
+            {
+              "name": "Spawn2"
+            },
+            {
+              "name": "Spawn3"
+            }
+          ]
         }
       ],
       "variables": [
         {
           "name": "Xcoord",
           "value": "0"
+        },
+        {
+          "name": "TotalDamage",
+          "value": "0"
+        },
+        {
+          "name": "Invulnerable",
+          "value": "0"
+        },
+        {
+          "name": "CurrentEnemies",
+          "value": "0"
+        },
+        {
+          "name": "TotalEnemies",
+          "value": "0"
+        },
+        {
+          "name": "CurrentSpawn",
+          "value": "1"
         }
       ],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 64,
-          "layer": "",
-          "locked": false,
-          "name": "PlayerBase",
-          "persistentUuid": "9a2a3aa2-2d36-4eac-a32c-0eabdf132c18",
-          "width": 85,
-          "x": 252,
-          "y": 550,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": true,
@@ -2045,22 +2558,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 63,
-          "layer": "",
-          "locked": false,
-          "name": "Shadow",
-          "persistentUuid": "19b37f11-a18d-43d8-ac7c-d06512818236",
-          "width": 110,
-          "x": 539,
-          "y": 200,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 35,
           "layer": "",
           "locked": false,
@@ -2069,22 +2566,6 @@
           "width": 37,
           "x": 1381,
           "y": 561,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 124,
-          "layer": "",
-          "locked": false,
-          "name": "Goblin",
-          "persistentUuid": "93de8956-6c38-4e6a-8443-56957428cae4",
-          "width": 134,
-          "x": 501,
-          "y": 499,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -2109,14 +2590,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 40,
+          "height": 37,
           "layer": "GUI",
           "locked": false,
           "name": "Health",
           "persistentUuid": "01c41273-91a7-49d2-b617-3840583146de",
-          "width": 72,
-          "x": 7,
-          "y": 2,
+          "width": 69,
+          "x": 10,
+          "y": 3,
           "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
@@ -2128,32 +2609,95 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Player",
-          "persistentUuid": "8066817e-39d7-4938-a123-2cc9b8d988d6",
+          "name": "Spawn1",
+          "persistentUuid": "07b1f791-e920-45f5-861a-7c2ac8f0ffea",
           "width": 0,
-          "x": 328,
-          "y": 574,
-          "zOrder": 3,
+          "x": 1149,
+          "y": 344,
+          "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "name": "MaxSpeed",
-              "value": "225"
-            },
-            {
-              "name": "Health",
-              "value": "100"
-            },
-            {
-              "name": "Damage",
-              "value": "50"
-            },
-            {
-              "name": "Knockback",
-              "value": "50"
-            }
-          ]
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Spawn2",
+          "persistentUuid": "1793ead5-a7c6-44bb-88f5-6384ed25f121",
+          "width": 0,
+          "x": 1951,
+          "y": 351,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Spawn3",
+          "persistentUuid": "d92bbb72-fccb-4c0f-8d46-707f986131c0",
+          "width": 0,
+          "x": 2542,
+          "y": 646,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 107,
+          "layer": "GUI",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "0c617925-d6ac-4506-b162-b58485125fb5",
+          "width": 292,
+          "x": 41,
+          "y": 29,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GUI",
+          "locked": false,
+          "name": "Cheats",
+          "persistentUuid": "2aa6d37d-3e98-4647-b165-cccb92de539d",
+          "width": 0,
+          "x": 997,
+          "y": 9,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Title",
+          "persistentUuid": "8d065b2d-aa7d-4d1e-921a-745b82da8d87",
+          "width": 0,
+          "x": 444,
+          "y": 224,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -2174,6 +2718,8 @@
               "CooldownActive": false
             },
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1200,
               "canGrabPlatforms": false,
               "deceleration": 1200,
@@ -2184,10 +2730,8 @@
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 300,
               "maxSpeed": 225,
-              "name": "PlatformerObject",
               "roundCoordinates": true,
               "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "xGrabTolerance": 10,
               "yGrabOffset": 0
             }
@@ -2806,7 +3350,7 @@
               ]
             },
             {
-              "name": "Jump",
+              "name": "Jumping",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -2944,7 +3488,7 @@
               ]
             },
             {
-              "name": "Fall",
+              "name": "Falling",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -3082,12 +3626,12 @@
               ]
             },
             {
-              "name": "Attack",
+              "name": "Attack1",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.1,
+                  "timeBetweenFrames": 0.1429,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
@@ -3596,6 +4140,660 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "Hurt",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Hurt-1.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 76.5221,
+                          "y": 38.5761
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42.768,
+                        "y": 42.5214
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 41.975,
+                        "y": 42.8112
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26.7143,
+                            "y": 14.4286
+                          },
+                          {
+                            "x": 57,
+                            "y": 15
+                          },
+                          {
+                            "x": 58.4286,
+                            "y": 68.4286
+                          },
+                          {
+                            "x": 27,
+                            "y": 68.1429
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Hurt-2.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 76.5221,
+                          "y": 38.5761
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42.768,
+                        "y": 42.5214
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 41.975,
+                        "y": 42.8112
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26.7143,
+                            "y": 14.4286
+                          },
+                          {
+                            "x": 57,
+                            "y": 15
+                          },
+                          {
+                            "x": 58.4286,
+                            "y": 68.4286
+                          },
+                          {
+                            "x": 27,
+                            "y": 68.1429
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Hurt-3.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 76.5221,
+                          "y": 38.5761
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42.768,
+                        "y": 42.5214
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 41.975,
+                        "y": 42.8112
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26.7143,
+                            "y": 14.4286
+                          },
+                          {
+                            "x": 57,
+                            "y": 15
+                          },
+                          {
+                            "x": 58.4286,
+                            "y": 68.4286
+                          },
+                          {
+                            "x": 27,
+                            "y": 68.1429
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Hurt-4.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 76.5221,
+                          "y": 38.5761
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42.768,
+                        "y": 42.5214
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 41.975,
+                        "y": 42.8112
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26.7143,
+                            "y": 14.4286
+                          },
+                          {
+                            "x": 57,
+                            "y": 15
+                          },
+                          {
+                            "x": 58.4286,
+                            "y": 68.4286
+                          },
+                          {
+                            "x": 27,
+                            "y": 68.1429
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Death",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Death-1-0.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 76.5221,
+                          "y": 38.5761
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42.768,
+                        "y": 42.5214
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 41.975,
+                        "y": 42.8112
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26.7143,
+                            "y": 14.4286
+                          },
+                          {
+                            "x": 57,
+                            "y": 15
+                          },
+                          {
+                            "x": 58.4286,
+                            "y": 68.4286
+                          },
+                          {
+                            "x": 27,
+                            "y": 68.1429
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Death-2-0.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 76.5221,
+                          "y": 38.5761
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42.768,
+                        "y": 42.5214
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 41.975,
+                        "y": 42.8112
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26.7143,
+                            "y": 14.4286
+                          },
+                          {
+                            "x": 57,
+                            "y": 15
+                          },
+                          {
+                            "x": 58.4286,
+                            "y": 68.4286
+                          },
+                          {
+                            "x": 27,
+                            "y": 68.1429
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Death-3-0.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 76.5221,
+                          "y": 38.5761
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42.768,
+                        "y": 42.5214
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 41.975,
+                        "y": 42.8112
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26.7143,
+                            "y": 14.4286
+                          },
+                          {
+                            "x": 57,
+                            "y": 15
+                          },
+                          {
+                            "x": 58.4286,
+                            "y": 68.4286
+                          },
+                          {
+                            "x": 27,
+                            "y": 68.1429
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Death-4-0.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 76.5221,
+                          "y": 38.5761
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42.768,
+                        "y": 42.5214
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 41.975,
+                        "y": 42.8112
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26.7143,
+                            "y": 14.4286
+                          },
+                          {
+                            "x": 57,
+                            "y": 15
+                          },
+                          {
+                            "x": 58.4286,
+                            "y": 68.4286
+                          },
+                          {
+                            "x": 27,
+                            "y": 68.1429
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Death-5.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 76.5221,
+                          "y": 38.5761
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42.768,
+                        "y": 42.5214
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 41.975,
+                        "y": 42.8112
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26.7143,
+                            "y": 14.4286
+                          },
+                          {
+                            "x": 57,
+                            "y": 15
+                          },
+                          {
+                            "x": 58.4286,
+                            "y": 68.4286
+                          },
+                          {
+                            "x": 27,
+                            "y": 68.1429
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Death-6.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 76.5221,
+                          "y": 38.5761
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42.768,
+                        "y": 42.5214
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 41.975,
+                        "y": 42.8112
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26.7143,
+                            "y": 14.4286
+                          },
+                          {
+                            "x": 57,
+                            "y": 15
+                          },
+                          {
+                            "x": 58.4286,
+                            "y": 68.4286
+                          },
+                          {
+                            "x": 27,
+                            "y": 68.1429
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Death-7.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 76.5221,
+                          "y": 38.5761
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42.768,
+                        "y": 42.5214
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 41.975,
+                        "y": 42.8112
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26.7143,
+                            "y": 14.4286
+                          },
+                          {
+                            "x": 57,
+                            "y": 15
+                          },
+                          {
+                            "x": 58.4286,
+                            "y": 68.4286
+                          },
+                          {
+                            "x": 27,
+                            "y": 68.1429
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Death-8.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 76.5221,
+                          "y": 38.5761
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42.768,
+                        "y": 42.5214
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 41.975,
+                        "y": 42.8112
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26.7143,
+                            "y": 14.4286
+                          },
+                          {
+                            "x": 57,
+                            "y": 15
+                          },
+                          {
+                            "x": 58.4286,
+                            "y": 68.4286
+                          },
+                          {
+                            "x": 27,
+                            "y": 68.1429
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Death-9.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 76.5221,
+                          "y": 38.5761
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42.768,
+                        "y": 42.5214
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 41.975,
+                        "y": 42.8112
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26.7143,
+                            "y": 14.4286
+                          },
+                          {
+                            "x": 57,
+                            "y": 15
+                          },
+                          {
+                            "x": 58.4286,
+                            "y": 68.4286
+                          },
+                          {
+                            "x": 27,
+                            "y": 68.1429
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Death-10.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 76.5221,
+                          "y": 38.5761
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42.768,
+                        "y": 42.5214
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 41.975,
+                        "y": 42.8112
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26.7143,
+                            "y": 14.4286
+                          },
+                          {
+                            "x": 57,
+                            "y": 15
+                          },
+                          {
+                            "x": 58.4286,
+                            "y": 68.4286
+                          },
+                          {
+                            "x": 27,
+                            "y": 68.1429
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Death-11.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 76.5221,
+                          "y": 38.5761
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42.768,
+                        "y": 42.5214
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 41.975,
+                        "y": 42.8112
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26.7143,
+                            "y": 14.4286
+                          },
+                          {
+                            "x": 57,
+                            "y": 15
+                          },
+                          {
+                            "x": 58.4286,
+                            "y": 68.4286
+                          },
+                          {
+                            "x": 27,
+                            "y": 68.1429
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -3611,7 +4809,7 @@
           "behaviors": [],
           "string": "0",
           "font": "",
-          "characterSize": 80,
+          "characterSize": 50,
           "color": {
             "b": 28,
             "g": 231,
@@ -3633,10 +4831,10 @@
               "yGrabOffset": 0
             },
             {
-              "allowDiagonals": false,
-              "maxSpeed": 225,
               "name": "TopDownMovement",
               "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+              "allowDiagonals": false,
+              "maxSpeed": 225,
               "acceleration": 800,
               "ignoreDefaultControls": true,
               "angleOffset": 0,
@@ -3710,37 +4908,7 @@
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "behaviors": [
-            {
-              "name": "PathfindingObstacle",
-              "type": "PathfindingBehavior::PathfindingObstacleBehavior",
-              "cost": 2,
-              "impassable": true
-            },
-            {
-              "name": "Physics2",
-              "type": "Physics2::Physics2Behavior",
-              "bodyType": "Static",
-              "bullet": false,
-              "fixedRotation": true,
-              "canSleep": false,
-              "shape": "Box",
-              "shapeDimensionA": 0,
-              "shapeDimensionB": 0,
-              "shapeOffsetX": 0,
-              "shapeOffsetY": 0,
-              "polygonOrigin": "Center",
-              "vertices": [],
-              "density": 1,
-              "friction": 0.3,
-              "restitution": 0.1,
-              "linearDamping": 0.1,
-              "angularDamping": 0.1,
-              "gravityScale": 1,
-              "layers": 1,
-              "masks": 1
-            }
-          ],
+          "behaviors": [],
           "animations": [
             {
               "name": "YBoundary-2",
@@ -3798,14 +4966,7 @@
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "behaviors": [
-            {
-              "name": "PathfindingObstacle",
-              "type": "PathfindingBehavior::PathfindingObstacleBehavior",
-              "cost": 2,
-              "impassable": true
-            }
-          ],
+          "behaviors": [],
           "animations": [
             {
               "name": "YBoundary-1",
@@ -3912,14 +5073,7 @@
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "behaviors": [
-            {
-              "name": "PathfindingObstacle",
-              "type": "PathfindingBehavior::PathfindingObstacleBehavior",
-              "cost": 2,
-              "impassable": true
-            }
-          ],
+          "behaviors": [],
           "animations": [
             {
               "name": "NewObject2",
@@ -3977,14 +5131,7 @@
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "behaviors": [
-            {
-              "name": "PathfindingObstacle",
-              "type": "PathfindingBehavior::PathfindingObstacleBehavior",
-              "cost": 2,
-              "impassable": true
-            }
-          ],
+          "behaviors": [],
           "animations": [
             {
               "name": "NewObject2",
@@ -4132,7 +5279,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject2-1-3.png",
+                      "image": "NewObject2-1-5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4162,7 +5309,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "NewObject-1-0",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -4171,7 +5318,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-1-0.png",
+                      "image": "NewObject-1-0-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4209,9 +5356,9 @@
             {
               "name": "Health",
               "type": "Health::Health",
-              "Health": 100,
+              "Health": 200,
               "DamageCooldown": 0.5,
-              "MaxHealth": 100,
+              "MaxHealth": 0,
               "IsJustDamaged": false,
               "CooldownActive": false
             }
@@ -5106,7 +6253,439 @@
               ]
             },
             {
-              "name": "Attack",
+              "name": "EnemyAttack",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1111,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Goblin-1-0.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 101,
+                          "y": 81.6
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 75.1758,
+                        "y": 85.5031
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 76.2249,
+                        "y": 85.8528
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 58.375,
+                            "y": 64.875
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 65.125
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 101.375
+                          },
+                          {
+                            "x": 57.875,
+                            "y": 101.125
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Goblin-2-0.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 101,
+                          "y": 81.6
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 75.1758,
+                        "y": 85.5031
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 76.2249,
+                        "y": 85.8528
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 58.375,
+                            "y": 64.875
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 65.125
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 101.375
+                          },
+                          {
+                            "x": 57.875,
+                            "y": 101.125
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Goblin-3-0.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 101,
+                          "y": 81.6
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 75.1758,
+                        "y": 85.5031
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 76.2249,
+                        "y": 85.8528
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 58.375,
+                            "y": 64.875
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 65.125
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 101.375
+                          },
+                          {
+                            "x": 57.875,
+                            "y": 101.125
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Goblin-4-0.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 101,
+                          "y": 81.6
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 75.1758,
+                        "y": 85.5031
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 76.2249,
+                        "y": 85.8528
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 58.375,
+                            "y": 64.875
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 65.125
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 101.375
+                          },
+                          {
+                            "x": 57.875,
+                            "y": 101.125
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Goblin-5-0.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 101,
+                          "y": 81.6
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 75.1758,
+                        "y": 85.5031
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 76.2249,
+                        "y": 85.8528
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 58.375,
+                            "y": 64.875
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 65.125
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 101.375
+                          },
+                          {
+                            "x": 57.875,
+                            "y": 101.125
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Goblin-6-0.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 101,
+                          "y": 81.6
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 75.1758,
+                        "y": 85.5031
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 76.2249,
+                        "y": 85.8528
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 58.375,
+                            "y": 64.875
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 65.125
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 101.375
+                          },
+                          {
+                            "x": 57.875,
+                            "y": 101.125
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Goblin-7-0.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 101,
+                          "y": 81.6
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 75.1758,
+                        "y": 85.5031
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 76.2249,
+                        "y": 85.8528
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 58.375,
+                            "y": 64.875
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 65.125
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 101.375
+                          },
+                          {
+                            "x": 57.875,
+                            "y": 101.125
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Goblin-8-0.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 101,
+                          "y": 81.6
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 75.1758,
+                        "y": 85.5031
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 76.2249,
+                        "y": 85.8528
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 58.375,
+                            "y": 64.875
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 65.125
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 101.375
+                          },
+                          {
+                            "x": 57.875,
+                            "y": 101.125
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Goblin-2-0.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 101,
+                          "y": 81.6
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 75.1758,
+                        "y": 85.5031
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 76.2249,
+                        "y": 85.8528
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 58.375,
+                            "y": 64.875
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 65.125
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 101.375
+                          },
+                          {
+                            "x": 57.875,
+                            "y": 101.125
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Goblin-1-0.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 101,
+                          "y": 81.6
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 75.1758,
+                        "y": 85.5031
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 76.2249,
+                        "y": 85.8528
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 58.375,
+                            "y": 64.875
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 65.125
+                          },
+                          {
+                            "x": 91.375,
+                            "y": 101.375
+                          },
+                          {
+                            "x": 57.875,
+                            "y": 101.125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "AttackFatigue",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -5115,137 +6694,24 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Goblin-1.png",
-                      "points": [],
+                      "image": "Goblin-1-0.png",
+                      "points": [
+                        {
+                          "name": "HitPoint",
+                          "x": 101,
+                          "y": 81.6
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 75.1758,
+                        "y": 85.5031
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Goblin-2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Goblin-3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Goblin-4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Goblin-5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Goblin-6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Goblin-7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Goblin-8.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 76.2249,
+                        "y": 85.8528
                       },
                       "customCollisionMask": []
                     }
@@ -5330,7 +6796,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "HealthBarBase-1.png",
+                      "image": "HealthBarBase-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5360,7 +6826,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "NewObject3",
+              "name": "Healthy",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -5387,6 +6853,35 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "Damaged",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Health-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -5395,7 +6890,12 @@
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "Active",
+              "value": "1"
+            }
+          ],
           "behaviors": [],
           "animations": [
             {
@@ -5408,7 +6908,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject3-1-0.png",
+                      "image": "NewObject3-1-3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5428,6 +6928,176 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Spawn1",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Location",
+              "value": "1"
+            }
+          ],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject3-1-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Spawn2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Location",
+              "value": "2"
+            }
+          ],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject3-1-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Spawn3",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Location",
+              "value": "3"
+            }
+          ],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject3-1-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": true,
+          "italic": true,
+          "name": "Cheats",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Cheats:\nPress i for a lot of health\nPress f to set damage at 1000",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 35,
+            "g": 166,
+            "r": 245
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Title",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "A beat 'em up style game. Go get them and have fun. \n!Prototype!\nLevels and improved game mechanics to be introduced",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
         }
       ],
       "events": [
@@ -5445,6 +7115,165 @@
           },
           "comment": "Setup player and camera",
           "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Player",
+                "0",
+                "0",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "PlayerBase",
+                "140",
+                "550",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Shadow",
+                "0",
+                "0",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreY"
+              },
+              "parameters": [
+                "Player",
+                "=",
+                "PlayerBase.Y() - 20"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "TotalEnemies",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeWidth"
+              },
+              "parameters": [
+                "HealthBarBase",
+                "=",
+                "Player.Health::Health() + 10"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "HitBox"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "Spawn"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "PlayerBase"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeWidth"
+              },
+              "parameters": [
+                "Health",
+                "=",
+                "Player.Health::Health()"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Enemies",
+                "\"Attack\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "Cam"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         },
         {
           "disabled": false,
@@ -5534,7 +7363,19 @@
               "parameters": [
                 "NewObject",
                 "=",
-                "VariableString(Xcoord)"
+                "\"Max 20 Enemies, Total : \" + VariableString(CurrentEnemies)"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "CurrentEnemies",
+                "=",
+                "Count(Enemies)"
               ],
               "subInstructions": []
             }
@@ -5561,7 +7402,7 @@
                   "parameters": [
                     "Cam",
                     ">",
-                    "690"
+                    "650"
                   ],
                   "subInstructions": []
                 },
@@ -5596,6 +7437,28 @@
               "subInstructions": []
             }
           ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "Enemies",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "LinkedObjects::PickObjectsLinkedTo"
+              },
+              "parameters": [
+                "",
+                "EnemyHitBox",
+                "Enemies"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
           "events": []
         },
         {
@@ -5684,6 +7547,14 @@
                 ""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
             }
           ],
           "actions": [
@@ -5730,54 +7601,6 @@
             {
               "type": {
                 "inverted": false,
-                "value": "ChangeScale"
-              },
-              "parameters": [
-                "Player",
-                "*",
-                "1.5"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ChangeScale"
-              },
-              "parameters": [
-                "Enemies",
-                "*",
-                "2"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ChangeWidth"
-              },
-              "parameters": [
-                "HealthBarBase",
-                "=",
-                "Player.Health::Health() + 5"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ChangeWidth"
-              },
-              "parameters": [
-                "Health",
-                "=",
-                "Player.Health::Health()"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "SetAdaptGameResolutionAtRuntime"
               },
               "parameters": [
@@ -5789,31 +7612,22 @@
             {
               "type": {
                 "inverted": false,
-                "value": "Cache"
+                "value": "AdvancedWindow::Maximize"
               },
               "parameters": [
-                "Cam"
+                "yes"
               ],
               "subInstructions": []
             },
             {
               "type": {
                 "inverted": false,
-                "value": "Cache"
+                "value": "SetFullScreen"
               },
               "parameters": [
-                "PlayerBase"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ResetObjectTimer"
-              },
-              "parameters": [
-                "Enemies",
-                "\"Attack\""
+                "",
+                "yes",
+                ""
               ],
               "subInstructions": []
             }
@@ -5841,21 +7655,31 @@
             {
               "type": {
                 "inverted": false,
-                "value": "Quit"
+                "value": "RemoveObjectTimer"
               },
               "parameters": [
-                ""
+                "Enemies",
+                "\"Attack\""
               ],
               "subInstructions": []
             },
             {
               "type": {
                 "inverted": false,
-                "value": "SetFullScreen"
+                "value": "RemoveObjectTimer"
               },
               "parameters": [
-                "",
-                "yes",
+                "Enemies",
+                "\"Attack Fatigue\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Quit"
+              },
+              "parameters": [
                 ""
               ],
               "subInstructions": []
@@ -5875,30 +7699,385 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Player controls",
+          "comment": "Player ",
           "comment2": ""
         },
         {
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
+          "conditions": [
             {
               "type": {
                 "inverted": false,
-                "value": "Health::Health::SetHealth"
+                "value": "DepartScene"
               },
               "parameters": [
-                "Player",
-                "Health",
-                "Player.Variable(Health)",
                 ""
               ],
               "subInstructions": []
             }
           ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeScale"
+              },
+              "parameters": [
+                "Player",
+                "*",
+                "1.5"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "Damage",
+                "=",
+                "50"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "Armour",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "MaxSpeed",
+                "=",
+                "225"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "Knockback",
+                "=",
+                "300"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "EnemiesClose",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "EnemyHitBox",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"EnemyAttack\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Sprite"
+              },
+              "parameters": [
+                "Enemies",
+                ">",
+                "4"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "EnemiesClose",
+                "=",
+                "Count(EnemyHitBox)"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "EnemyHitBox",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"EnemyAttack\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "EnemiesClose",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Player Health",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Player",
+                "\"Hurt\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "AnimationEnded"
+              },
+              "parameters": [
+                "Player"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Player",
+                "\"Idle\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "Attack",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Health",
+                "\"Damaged\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "AnimationEnded"
+              },
+              "parameters": [
+                "Health"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Health",
+                "\"Healthy\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeWidth"
+              },
+              "parameters": [
+                "Health",
+                "=",
+                "Player.Health::Health()"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Player",
+                "\"Death\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Player Controls",
+          "comment2": ""
         },
         {
           "disabled": false,
@@ -5967,6 +8146,18 @@
                     "Attack",
                     "=",
                     "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Health",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -6066,6 +8257,18 @@
                     "Attack",
                     "=",
                     "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Health",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -6178,6 +8381,18 @@
                     "100"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Health",
+                    ""
+                  ],
+                  "subInstructions": []
                 }
               ]
             }
@@ -6277,6 +8492,18 @@
                     "100"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Health",
+                    ""
+                  ],
+                  "subInstructions": []
                 }
               ]
             }
@@ -6326,6 +8553,29 @@
                 "Attack",
                 "=",
                 "0"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Player",
+                "\"Hurt\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                ""
               ],
               "subInstructions": []
             }
@@ -6418,12 +8668,11 @@
                         {
                           "type": {
                             "inverted": false,
-                            "value": "ChangeAnimation"
+                            "value": "SetAnimationName"
                           },
                           "parameters": [
                             "Player",
-                            "=",
-                            "1"
+                            "\"Run\""
                           ],
                           "subInstructions": []
                         }
@@ -6451,12 +8700,11 @@
                         {
                           "type": {
                             "inverted": false,
-                            "value": "ChangeAnimation"
+                            "value": "SetAnimationName"
                           },
                           "parameters": [
                             "Player",
-                            "=",
-                            "0"
+                            "\"Idle\""
                           ],
                           "subInstructions": []
                         }
@@ -6497,12 +8745,11 @@
                     {
                       "type": {
                         "inverted": false,
-                        "value": "ChangeAnimation"
+                        "value": "SetAnimationName"
                       },
                       "parameters": [
                         "Player",
-                        "=",
-                        "2"
+                        "\"Jumping\""
                       ],
                       "subInstructions": []
                     },
@@ -6558,12 +8805,11 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "ChangeAnimation"
+                    "value": "SetAnimationName"
                   },
                   "parameters": [
                     "Player",
-                    "=",
-                    "3"
+                    "\"Falling\""
                   ],
                   "subInstructions": []
                 }
@@ -6633,16 +8879,27 @@
                 {
                   "type": {
                     "inverted": true,
-                    "value": "Animation"
+                    "value": "AnimationName"
                   },
                   "parameters": [
                     "Player",
-                    "=",
-                    "4"
+                    "\"Attack1\""
                   ],
                   "subInstructions": []
                 }
               ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                ""
+              ],
+              "subInstructions": []
             },
             {
               "type": {
@@ -6720,12 +8977,11 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "ChangeAnimation"
+                    "value": "SetAnimationName"
                   },
                   "parameters": [
                     "Player",
-                    "=",
-                    "4"
+                    "\"Attack1\""
                   ],
                   "subInstructions": []
                 }
@@ -6764,12 +9020,11 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "Animation"
+                    "value": "AnimationName"
                   },
                   "parameters": [
                     "Player",
-                    "=",
-                    "4"
+                    "\"Attack1\""
                   ],
                   "subInstructions": []
                 }
@@ -6815,7 +9070,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Hit?",
+          "comment": "Hit Enemy?",
           "comment2": ""
         },
         {
@@ -6826,16 +9081,62 @@
             {
               "type": {
                 "inverted": false,
-                "value": "CollisionNP"
+                "value": "BuiltinCommonInstructions::Or"
               },
-              "parameters": [
-                "HitBox",
-                "Enemies",
-                "",
-                "",
-                ""
-              ],
-              "subInstructions": []
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::And"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "HitBox",
+                        "EnemyHitBox",
+                        "",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "HitBox",
+                        "Enemies",
+                        "",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "HitBox",
+                    "Enemies",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ]
             },
             {
               "type": {
@@ -6847,12 +9148,11 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "Animation"
+                    "value": "AnimationName"
                   },
                   "parameters": [
                     "Player",
-                    "=",
-                    "4"
+                    "\"Attack1\""
                   ],
                   "subInstructions": []
                 }
@@ -6883,6 +9183,31 @@
             },
             {
               "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Enemies",
+                "KnockbackState",
+                "!=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
                 "inverted": false,
                 "value": "BuiltinCommonInstructions::Once"
               },
@@ -6903,134 +9228,7 @@
                 ""
               ],
               "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Enemies",
-          "comment2": ""
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "PosX"
-              },
-              "parameters": [
-                "Enemies",
-                ">",
-                "Player.X()"
-              ],
-              "subInstructions": []
             },
-            {
-              "type": {
-                "inverted": true,
-                "value": "Health::Health::IsDead"
-              },
-              "parameters": [
-                "Enemies",
-                "Health",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "FlipX"
-              },
-              "parameters": [
-                "Enemies",
-                "yes"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "PosX"
-              },
-              "parameters": [
-                "Enemies",
-                "<=",
-                "Player.X()"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "Health::Health::IsDead"
-              },
-              "parameters": [
-                "Enemies",
-                "Health",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "FlipX"
-              },
-              "parameters": [
-                "Enemies",
-                "no"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "Health::Health::IsDead"
-              },
-              "parameters": [
-                "Enemies",
-                "Health",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
             {
               "type": {
                 "inverted": false,
@@ -7038,7 +9236,214 @@
               },
               "parameters": [
                 "Enemies",
-                "\"Death\""
+                "\"Hit\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Enemies",
+                "\"Knockback\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Enemies",
+                "KnockbackState",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Enemies",
+                "=",
+                "100"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "Enemies",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Enemies",
+                "KnockbackState",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Enemies",
+                    "\"Run\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Enemies",
+                    "\"Idle\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "Enemies",
+                    ">",
+                    "Player.X()"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "Enemies",
+                    "0",
+                    "100",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "Enemies",
+                    "<",
+                    "Player.X()"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "Enemies",
+                    "180",
+                    "100",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ObjectTimer"
+              },
+              "parameters": [
+                "Enemies",
+                "\"Knockback\"",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Enemies",
+                "KnockbackState",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Arreter"
+              },
+              "parameters": [
+                "Enemies"
               ],
               "subInstructions": []
             }
@@ -7052,10 +9457,12 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "AnimationEnded"
+                    "value": "ObjectTimer"
                   },
                   "parameters": [
-                    "Enemies"
+                    "Enemies",
+                    "\"Knockback\"",
+                    "1.4"
                   ],
                   "subInstructions": []
                 }
@@ -7064,38 +9471,36 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "Flash::Flash::Flash"
+                    "value": "Opacity"
                   },
                   "parameters": [
                     "Enemies",
-                    "",
-                    "4",
-                    ""
+                    "=",
+                    "255"
                   ],
                   "subInstructions": []
                 },
                 {
                   "type": {
                     "inverted": false,
-                    "value": "Delete"
+                    "value": "RemoveObjectTimer"
                   },
                   "parameters": [
                     "Enemies",
-                    ""
+                    "\"Knockback\""
                   ],
                   "subInstructions": []
                 },
                 {
                   "type": {
                     "inverted": false,
-                    "value": "Create"
+                    "value": "ModVarObjet"
                   },
                   "parameters": [
-                    "",
-                    "NewObject2",
-                    "Enemies.X()",
-                    "Enemies.Y()",
-                    "20"
+                    "Enemies",
+                    "KnockbackState",
+                    "=",
+                    "0"
                   ],
                   "subInstructions": []
                 }
@@ -7107,15 +9512,31 @@
         {
           "disabled": false,
           "folded": false,
-          "type": "BuiltinCommonInstructions::ForEach",
-          "object": "Enemies",
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Enemies SetUp",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
                 "inverted": false,
-                "value": "BuiltinCommonInstructions::Once"
+                "value": "DepartScene"
               },
-              "parameters": [],
+              "parameters": [
+                ""
+              ],
               "subInstructions": []
             }
           ],
@@ -7123,31 +9544,89 @@
             {
               "type": {
                 "inverted": false,
-                "value": "Create"
+                "value": "ModVarObjet"
               },
               "parameters": [
-                "",
-                "EnemyHitBox",
-                "Enemies.PointX(\"HitPoint\")",
-                "Enemies.PointY(\"HitPoint\")",
-                ""
+                "Goblin",
+                "Damage",
+                "=",
+                "30"
               ],
               "subInstructions": []
             },
             {
               "type": {
                 "inverted": false,
-                "value": "LinkedObjects::LinkObjects"
+                "value": "ChangeScale"
               },
               "parameters": [
-                "",
-                "EnemyHitBox",
-                "Enemies"
+                "Enemies",
+                "*",
+                "2"
               ],
               "subInstructions": []
             }
           ],
-          "events": []
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "Enemies",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "EnemyHitBox",
+                    "Enemies.PointX(\"HitPoint\")",
+                    "Enemies.PointY(\"HitPoint\")",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "LinkedObjects::LinkObjects"
+                  },
+                  "parameters": [
+                    "",
+                    "EnemyHitBox",
+                    "Enemies"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "EnemyHitBox",
+                    "Active",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
         },
         {
           "disabled": false,
@@ -7189,6 +9668,210 @@
         {
           "disabled": false,
           "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Enemy Movement",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PosX"
+              },
+              "parameters": [
+                "Enemies",
+                ">",
+                "Player.X()"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Enemies",
+                "Health",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"EnemyAttack\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"AttackFatigue\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"Hit\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Enemies",
+                "yes"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"Idle\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PosX"
+              },
+              "parameters": [
+                "Enemies",
+                "<=",
+                "Player.X()"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Enemies",
+                "Health",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"EnemyAttack\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"AttackFatigue\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"Hit\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Enemies",
+                "no"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
           "type": "BuiltinCommonInstructions::ForEach",
           "object": "Enemies",
           "conditions": [
@@ -7206,36 +9889,60 @@
             },
             {
               "type": {
-                "inverted": false,
-                "value": "CollisionNP"
+                "inverted": true,
+                "value": "Health::Health::IsDead"
               },
               "parameters": [
                 "Player",
-                "EnemyHitBox",
-                "",
-                "",
+                "Health",
                 ""
               ],
               "subInstructions": []
             },
             {
               "type": {
-                "inverted": false,
-                "value": "ObjectTimer"
+                "inverted": true,
+                "value": "Distance"
               },
               "parameters": [
                 "Enemies",
-                "\"Attack\"",
-                "2"
+                "PlayerBase",
+                "70",
+                ""
               ],
               "subInstructions": []
             },
             {
               "type": {
-                "inverted": false,
-                "value": "BuiltinCommonInstructions::Once"
+                "inverted": true,
+                "value": "AnimationName"
               },
-              "parameters": [],
+              "parameters": [
+                "Enemies",
+                "\"EnemyAttack\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"AttackFatigue\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"Hit\""
+              ],
               "subInstructions": []
             }
           ],
@@ -7243,11 +9950,14 @@
             {
               "type": {
                 "inverted": false,
-                "value": "ResetObjectTimer"
+                "value": "AddForceVersPos"
               },
               "parameters": [
                 "Enemies",
-                "\"Attack\""
+                "PlayerBase.PointX(\"HitPoint\")",
+                "PlayerBase.PointY(\"HitPoint\")",
+                "80",
+                ""
               ],
               "subInstructions": []
             }
@@ -7266,7 +9976,7 @@
                   },
                   "parameters": [
                     "Enemies",
-                    "\"Attack\""
+                    "\"Run\""
                   ],
                   "subInstructions": []
                 }
@@ -7274,6 +9984,1508 @@
               "events": []
             }
           ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Distance"
+              },
+              "parameters": [
+                "Enemies",
+                "PlayerBase",
+                "70",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"Run\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"Idle\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Enemy Attack",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"Idle\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "Enemies",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "LinkedObjects::PickObjectsLinkedTo"
+                  },
+                  "parameters": [
+                    "",
+                    "EnemyHitBox",
+                    "Enemies"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "EnemyHitBox",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ObjectTimer"
+                  },
+                  "parameters": [
+                    "Enemies",
+                    "\"Attack\"",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"Death\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "EnemyHitBox",
+                    "Active",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "Enemies"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Enemies",
+                    "\"Attack\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Enemies",
+                    "\"EnemyAttack\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Enemies",
+                    "\"EnemyAttack\""
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "AnimationEnded"
+              },
+              "parameters": [
+                "Enemies"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"AttackFatigue\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Enemy has missed target in range, disable the hit box so this hit box does account for damage",
+              "comment2": ""
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "EnemyHitBox",
+                    "Active",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "EnemyHitBox",
+                    "Active",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"AttackFatigue\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ObjectTimer"
+              },
+              "parameters": [
+                "Enemies",
+                "\"Attack\"",
+                "3"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"Idle\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"Hit\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "AnimationEnded"
+              },
+              "parameters": [
+                "Enemies"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"AttackFatigue\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Hit Player?",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "EnemyHitBox",
+                "Active",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "Enemies",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "LinkedObjects::PickObjectsLinkedTo"
+                  },
+                  "parameters": [
+                    "",
+                    "EnemyHitBox",
+                    "Enemies"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "EnemyHitBox",
+                    "Player",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Enemies",
+                        "\"EnemyAttack\""
+                      ],
+                      "subInstructions": []
+                    }
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"Death\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Sprite"
+                  },
+                  "parameters": [
+                    "Enemies",
+                    ">",
+                    "5"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "TotalDamage",
+                    "=",
+                    "(Enemies.Variable(Damage)/ Player.Variable(Armour)) * Player.Variable(EnemiesClose)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Health",
+                    "Variable(TotalDamage)",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "EnemyHitBox",
+                    "Active",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Health",
+                    "\"Damaged\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"Hurt\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Enemy Health",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "Enemies",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Enemies",
+                "Health",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "LinkedObjects::PickObjectsLinkedTo"
+              },
+              "parameters": [
+                "",
+                "EnemyHitBox",
+                "Enemies"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Arreter"
+              },
+              "parameters": [
+                "Enemies"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"Death\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "EnemyHitBox",
+                "EnemyHitBox"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Enemies",
+                "\"Death\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "AnimationEnded"
+              },
+              "parameters": [
+                "Enemies"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Enemies",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Game Play",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Spawn Delay\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Timer"
+              },
+              "parameters": [
+                "",
+                "4",
+                "\"Spawn Delay\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "TotalEnemies",
+                "<",
+                "20"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "CurrentEnemies",
+                "<",
+                "5"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "CurrentSpawn",
+                "=",
+                "RandomInRange(1,3)"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Timer"
+                  },
+                  "parameters": [
+                    "",
+                    "4",
+                    "\"Spawn Delay\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarScene"
+                  },
+                  "parameters": [
+                    "CurrentSpawn",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Goblin",
+                    "Spawn1.X()",
+                    "Spawn1.Y()",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Damage",
+                    "=",
+                    "30"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "KnockbackState",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeScale"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "*",
+                    "2"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Spawn Delay\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "TotalEnemies",
+                    "+",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "Enemies",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "EnemyHitBox",
+                        "Enemies.PointX(\"HitPoint\")",
+                        "Enemies.PointY(\"HitPoint\")",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "LinkedObjects::LinkObjects"
+                      },
+                      "parameters": [
+                        "",
+                        "EnemyHitBox",
+                        "Goblin"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "EnemyHitBox",
+                        "Active",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "EnemyHitBox"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Timer"
+                  },
+                  "parameters": [
+                    "",
+                    "4",
+                    "\"Spawn Delay\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarScene"
+                  },
+                  "parameters": [
+                    "CurrentSpawn",
+                    "=",
+                    "2"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Goblin",
+                    "Spawn2.X()",
+                    "Spawn2.Y()",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Damage",
+                    "=",
+                    "30"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "KnockbackState",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeScale"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "*",
+                    "2"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Spawn Delay\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "TotalEnemies",
+                    "+",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "Enemies",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "EnemyHitBox",
+                        "Enemies.PointX(\"HitPoint\")",
+                        "Enemies.PointY(\"HitPoint\")",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "LinkedObjects::LinkObjects"
+                      },
+                      "parameters": [
+                        "",
+                        "EnemyHitBox",
+                        "Goblin"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "EnemyHitBox",
+                        "Active",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "EnemyHitBox"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Timer"
+                  },
+                  "parameters": [
+                    "",
+                    "4",
+                    "\"Spawn Delay\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarScene"
+                  },
+                  "parameters": [
+                    "CurrentSpawn",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Goblin",
+                    "Spawn3.X()",
+                    "Spawn3.Y()",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Damage",
+                    "=",
+                    "30"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "KnockbackState",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeScale"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "*",
+                    "2"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Spawn Delay\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "TotalEnemies",
+                    "+",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "Enemies",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "EnemyHitBox",
+                        "Enemies.PointX(\"HitPoint\")",
+                        "Enemies.PointY(\"HitPoint\")",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "LinkedObjects::LinkObjects"
+                      },
+                      "parameters": [
+                        "",
+                        "EnemyHitBox",
+                        "Goblin"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "EnemyHitBox",
+                        "Active",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "EnemyHitBox"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "TotalEnemies",
+                "=",
+                "20"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "RemoveTimer"
+              },
+              "parameters": [
+                "",
+                "\"Spawn Delay\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Cheats",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "f"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "Damage",
+                "=",
+                "1000"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "i"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "=",
+                "100000"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "Health"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Health::Health::SetHealth"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "Player.Variable(Health)",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "To-do: Background, music, menu, dead screen, Tweak fights : enemies only 2 or 3 at a time? knockback improvement, damage numbers, perks, levels, possible character select, leaderboards, score",
+          "comment2": ""
         }
       ],
       "layers": [
@@ -7319,18 +11531,6 @@
         {
           "name": "Health",
           "type": "Health::Health"
-        },
-        {
-          "name": "PathfindingObstacle",
-          "type": "PathfindingBehavior::PathfindingObstacleBehavior"
-        },
-        {
-          "name": "Physics2",
-          "type": "Physics2::Physics2Behavior",
-          "gravityX": 0,
-          "gravityY": 9.8,
-          "scaleX": 100,
-          "scaleY": 100
         },
         {
           "name": "Platform",
