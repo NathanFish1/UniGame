@@ -2403,8 +2403,8 @@
           "locked": false,
           "name": "Background",
           "persistentUuid": "81747a5e-ee7b-49ef-be60-1f497cdc13b9",
-          "width": 2823,
-          "x": -78,
+          "width": 3141,
+          "x": -243,
           "y": 0,
           "zOrder": 0,
           "numberProperties": [],
@@ -11484,7 +11484,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "To-do: Background, music, menu, dead screen, Tweak fights : enemies only 2 or 3 at a time? knockback improvement, damage numbers, perks, levels, possible character select, leaderboards, score",
+          "comment": "To-do: Background, music and sound effects, menu, dead screen, Tweak fights : enemies only 2 or 3 at a time? knockback improvement, damage numbers, perks, levels, possible character select, leaderboards, score",
           "comment2": ""
         }
       ],
