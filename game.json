@@ -2698,6 +2698,22 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GUI",
+          "locked": false,
+          "name": "NewObject3",
+          "persistentUuid": "ab9ef8a4-79cb-468d-bf50-df24b6b7e21c",
+          "width": 0,
+          "x": 966,
+          "y": 89,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -7071,7 +7087,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Cheats:\nPress i for a lot of health\nPress f to set damage at 1000\n\nESC = quit",
+          "string": "Cheats:\nPress i for a lot of health\nPress f to set damage at 1000\n\n",
           "font": "",
           "characterSize": 20,
           "color": {
@@ -7091,6 +7107,25 @@
           "variables": [],
           "behaviors": [],
           "string": "A beat 'em up style game. Go get them and have fun. \n!Prototype!\nLevels and improved game mechanics to be introduced",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "NewObject3",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Move: Up,Down,Left,Right or wasd\nJump: Space\nAttack: LMouse or E",
           "font": "",
           "characterSize": 20,
           "color": {
@@ -9956,7 +9991,7 @@
                 "Enemies",
                 "PlayerBase.PointX(\"HitPoint\")",
                 "PlayerBase.PointY(\"HitPoint\")",
-                "80",
+                "100",
                 ""
               ],
               "subInstructions": []
